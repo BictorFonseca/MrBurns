@@ -1,4 +1,4 @@
 # First Level Header
--Short
--Bullet
--List
+- Short
+- Bullet
+- List
